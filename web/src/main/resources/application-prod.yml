@@ -1,0 +1,4 @@
+spring:
+  profiles:
+    #加载common模块下的application-common-prod.yml配置文件
+    include: common-prod

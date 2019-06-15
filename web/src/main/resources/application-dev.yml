@@ -1,0 +1,4 @@
+spring:
+  profiles:
+    #加载common模块下的 application-common-dev.yml
+    include: common-dev
